@@ -9,7 +9,7 @@
 #### To install and run
 
 1. Git clone the repository
-2. Make sure Node Js is installed [Make sure Node Js is installed](https://nodejs.org/en/download/) 
+2. [Make sure Node Js is installed](https://nodejs.org/en/download/) 
 3. Make sure [readline sync](https://www.npmjs.com/package/readline-sync) is installed: 
 ```
 npm i readline-sync
