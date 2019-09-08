@@ -151,6 +151,8 @@ const playerOptions = () => {
 
     switch(input) {
         case "1":
+            console.log("\nYou have chosen to Hit!\n")
+            wait(1000)
             playerHit();
             break;
         case "2":

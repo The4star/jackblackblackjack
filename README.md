@@ -18,6 +18,14 @@ npm i readline-sync
 ```
  node jackblackblackjack.js 
  ```
+5. Playing is easy by simply pressing 1 or 2 from the options and enter.
+#### intro screen
+
+![Clinton Forster](./img/1.jpg "Clinton Forster")
+
+#### Gameplay example
+![Clinton Forster](./img/2.jpg "Clinton Forster")
+
  ### Purpose
  Made as practice in class at Coder Academy in one day after one week of learning Javascript. The game is Black Jack and the Dealer is Jack Black.
 
