@@ -1,210 +1,314 @@
 [
     {
       "suit": "hearts",
-      "value": 2
+      "name": 2,
+      "value": 2,
+      "ascii": " _____\n|2   ♥|\n|  ^  |\n|     |\n|  ^  |\n|♥___2|"
     },
     {
       "suit": "hearts",
-      "value": 3
+      "name": 3,
+      "value": 3,
+      "ascii": " _____\n|3   ♥|\n|  ^  |\n|     |\n|  ^  |\n|♥___3|"
     },
     {
       "suit": "hearts",
-      "value": 4
+      "name": 4,
+      "value": 4,
+      "ascii": " _____\n|4   ♥|\n|  ^  |\n|     |\n|  ^  |\n|♥___4|"
     },
     {
       "suit": "hearts",
-      "value": 5
+      "name": 5,
+      "value": 5,
+      "ascii": " _____\n|5   ♥|\n|  ^  |\n|     |\n|  ^  |\n|♥___5|"
     },
     {
       "suit": "hearts",
-      "value": 6
+      "name": 6,
+      "value": 6,
+      "ascii": " _____\n|6   ♥|\n|  ^  |\n|     |\n|  ^  |\n|♥___6|"
     },
     {
       "suit": "hearts",
-      "value": 7
+      "name": 7,
+      "value": 7,
+      "ascii": " _____\n|7   ♥|\n|  ^  |\n|     |\n|  ^  |\n|♥___7|"
     },
     {
       "suit": "hearts",
-      "value": 8
+      "name": 8,
+      "value": 8,
+      "ascii": " _____\n|8   ♥|\n|  ^  |\n|     |\n|  ^  |\n|♥___8|"
     },
     {
       "suit": "hearts",
-      "value": 9
+      "name": 9,
+      "value": 9,
+      "ascii": " _____\n|9   ♥|\n|  ^  |\n|     |\n|  ^  |\n|♥___9|"
     },
     {
       "suit": "hearts",
-      "value": 10
+      "name": 10,
+      "value": 10,
+      "ascii": " _____\n|10  ♥|\n|  ^  |\n|     |\n|  ^  |\n|♥__10|"
     },
     {
       "suit": "hearts",
-      "value": "J"
+      "name": "Jack",
+      "value": 10,
+      "ascii": " _____\n|J   ♥|\n|  ^  |\n|     |\n|  ^  |\n|♥___J|"
     },
     {
       "suit": "hearts",
-      "value": "Q"
+      "name": "Queen",
+      "value": 10,
+      "ascii": " _____\n|Q   ♥|\n|  ^  |\n|     |\n|  ^  |\n|♥___Q|"
     },
     {
       "suit": "hearts",
-      "value": "K"
+      "name": "King",
+      "value": 10,
+      "ascii": " _____\n|K   ♥|\n|  ^  |\n|     |\n|  ^  |\n|♥___K|"
     },
     {
       "suit": "hearts",
-      "value": "A"
+      "name": "Ace",
+      "value": 11,
+      "ascii": " _____\n|A   ♥|\n|  ^  |\n|     |\n|  ^  |\n|♥___A|"
     },
     {
       "suit": "diamonds",
-      "value": 2
+      "name": 2,
+      "value": 2,
+      "ascii": " _____\n|2   ♦|\n|  ^  |\n|     |\n|  ^  |\n|♦___2|"
     },
     {
       "suit": "diamonds",
-      "value": 3
+      "name": 3,
+      "value": 3,
+      "ascii": " _____\n|3   ♦|\n|  ^  |\n|     |\n|  ^  |\n|♦___3|"
     },
     {
       "suit": "diamonds",
-      "value": 4
+      "name": 4,
+      "value": 4,
+      "ascii": " _____\n|4   ♦|\n|  ^  |\n|     |\n|  ^  |\n|♦___4|"
     },
     {
       "suit": "diamonds",
-      "value": 5
+      "name": 5,
+      "value": 5,
+      "ascii": " _____\n|5   ♦|\n|  ^  |\n|     |\n|  ^  |\n|♦___5|"
     },
     {
       "suit": "diamonds",
-      "value": 6
+      "name": 6,
+      "value": 6,
+      "ascii": " _____\n|6   ♦|\n|  ^  |\n|     |\n|  ^  |\n|♦___6|"
     },
     {
       "suit": "diamonds",
-      "value": 7
+      "name": 7,
+      "value": 7,
+      "ascii": " _____\n|7   ♦|\n|  ^  |\n|     |\n|  ^  |\n|♦___7|"
     },
     {
       "suit": "diamonds",
-      "value": 8
+      "name": 8,
+      "value": 8,
+      "ascii": " _____\n|8   ♦|\n|  ^  |\n|     |\n|  ^  |\n|♦___8|"
     },
     {
       "suit": "diamonds",
-      "value": 9
+      "name": 9,
+      "value": 9,
+      "ascii": " _____\n|9   ♦|\n|  ^  |\n|     |\n|  ^  |\n|♦___9|"
     },
     {
       "suit": "diamonds",
-      "value": 10
+      "name": 10,
+      "value": 10,
+      "ascii": " _____\n|10  ♦|\n|  ^  |\n|     |\n|  ^  |\n|♦__10|"
     },
     {
       "suit": "diamonds",
-      "value": "J"
+      "name": "Jack",
+      "value": 10,
+      "ascii": " _____\n|J   ♦|\n|  ^  |\n|     |\n|  ^  |\n|♦___J|"
     },
     {
       "suit": "diamonds",
-      "value": "Q"
+      "name": "Queen",
+      "value": 10,
+      "ascii": " _____\n|Q   ♦|\n|  ^  |\n|     |\n|  ^  |\n|♦___Q|"
     },
     {
       "suit": "diamonds",
-      "value": "K"
+      "name": "King",
+      "value": 10,
+      "ascii": " _____\n|K   ♦|\n|  ^  |\n|     |\n|  ^  |\n|♦___K|"
     },
     {
       "suit": "diamonds",
-      "value": "A"
+      "name": "Ace",
+      "value": 11,
+      "ascii": " _____\n|A   ♦|\n|  ^  |\n|     |\n|  ^  |\n|♦___A|"
     },
     {
       "suit": "clubs",
-      "value": 2
+      "name": 2,
+      "value": 2,
+      "ascii": " _____\n|2   ♣|\n|  ^  |\n|     |\n|  ^  |\n|♣___2|"
     },
     {
       "suit": "clubs",
-      "value": 3
+      "name": 3,
+      "value": 3,
+      "ascii": " _____\n|3   ♣|\n|  ^  |\n|     |\n|  ^  |\n|♣___3|"
     },
     {
       "suit": "clubs",
-      "value": 4
+      "name": 4,
+      "value": 4,
+      "ascii": " _____\n|4   ♣|\n|  ^  |\n|     |\n|  ^  |\n|♣___4|"
     },
     {
       "suit": "clubs",
-      "value": 5
+      "name": 5,
+      "value": 5,
+      "ascii": " _____\n|5   ♣|\n|  ^  |\n|     |\n|  ^  |\n|♣___5|"
     },
     {
       "suit": "clubs",
-      "value": 6
+      "name": 6,
+      "value": 6,
+      "ascii": " _____\n|6   ♣|\n|  ^  |\n|     |\n|  ^  |\n|♣___6|"
     },
     {
       "suit": "clubs",
-      "value": 7
+      "name": 7,
+      "value": 7,
+      "ascii": " _____\n|7   ♣|\n|  ^  |\n|     |\n|  ^  |\n|♣___7|"
     },
     {
       "suit": "clubs",
-      "value": 8
+      "name": 8,
+      "value": 8,
+      "ascii": " _____\n|8   ♣|\n|  ^  |\n|     |\n|  ^  |\n|♣___8|"
     },
     {
       "suit": "clubs",
-      "value": 9
+      "name": 9,
+      "value": 9,
+      "ascii": " _____\n|9   ♣|\n|  ^  |\n|     |\n|  ^  |\n|♣___9|"
     },
     {
       "suit": "clubs",
-      "value": 10
+      "name": 10,
+      "value": 10,
+      "ascii": " _____\n|10  ♣|\n|  ^  |\n|     |\n|  ^  |\n|♣__10|"
     },
     {
       "suit": "clubs",
-      "value": "J"
+      "name": "Jack",
+      "value": 10,
+      "ascii": " _____\n|J   ♣|\n|  ^  |\n|     |\n|  ^  |\n|♣___J|"
     },
     {
       "suit": "clubs",
-      "value": "Q"
+      "name": "Queen",
+      "value": 10,
+      "ascii": " _____\n|Q   ♣|\n|  ^  |\n|     |\n|  ^  |\n|♣___Q|"
     },
     {
       "suit": "clubs",
-      "value": "K"
+      "name": "King",
+      "value": 10,
+      "ascii": " _____\n|K   ♣|\n|  ^  |\n|     |\n|  ^  |\n|♣___K|"
     },
     {
       "suit": "clubs",
-      "value": "A"
+      "name": "Ace",
+      "value": 11,
+      "ascii": " _____\n|A   ♣|\n|  ^  |\n|     |\n|  ^  |\n|♣___A|"
     },
     {
       "suit": "spades",
-      "value": 2
+      "name": 2,
+      "value": 2,
+      "ascii": " _____\n|2   ♠|\n|  ^  |\n|     |\n|  ^  |\n|♠___2|"
     },
     {
       "suit": "spades",
-      "value": 3
+      "name": 3,
+      "value": 3,
+      "ascii": " _____\n|3   ♠|\n|  ^  |\n|     |\n|  ^  |\n|♠___3|"
     },
     {
       "suit": "spades",
-      "value": 4
+      "name": 4,      
+      "value": 4,
+      "ascii": " _____\n|4   ♠|\n|  ^  |\n|     |\n|  ^  |\n|♠___4|"
     },
     {
       "suit": "spades",
-      "value": 5
+      "name": 5,
+      "value": 5,
+      "ascii": " _____\n|5   ♠|\n|  ^  |\n|     |\n|  ^  |\n|♠___5|"
     },
     {
       "suit": "spades",
-      "value": 6
+      "name": 6,
+      "value": 6,
+      "ascii": " _____\n|6   ♠|\n|  ^  |\n|     |\n|  ^  |\n|♠___6|"
     },
     {
       "suit": "spades",
-      "value": 7
+      "name": 7,
+      "value": 7,
+      "ascii": " _____\n|7   ♠|\n|  ^  |\n|     |\n|  ^  |\n|♠___7|"
     },
     {
       "suit": "spades",
-      "value": 8
+      "name": 8,
+      "value": 8,
+      "ascii": " _____\n|8   ♠|\n|  ^  |\n|     |\n|  ^  |\n|♠___8|"
     },
     {
       "suit": "spades",
-      "value": 9
+      "name": 9,
+      "value": 9,
+      "ascii": " _____\n|9   ♠|\n|  ^  |\n|     |\n|  ^  |\n|♠___9|"
     },
     {
       "suit": "spades",
-      "value": 10
+      "name": 10,
+      "value": 10,
+      "ascii": " _____\n|10  ♠|\n|  ^  |\n|     |\n|  ^  |\n|♠__10|"
     },
     {
       "suit": "spades",
-      "value": "J"
+      "name": "Jack",
+      "value": 10,
+      "ascii": " _____\n|J   ♠|\n|  ^  |\n|     |\n|  ^  |\n|♠___J|"
     },
     {
       "suit": "spades",
-      "value": "Q"
+      "name": "Queen",
+      "value": 10,
+      "ascii": " _____\n|Q   ♠|\n|  ^  |\n|     |\n|  ^  |\n|♠___Q|"
     },
     {
       "suit": "spades",
-      "value": "K"
+      "name": "King",
+      "value": 10,
+      "ascii": " _____\n|K   ♠|\n|  ^  |\n|     |\n|  ^  |\n|♠___K|"
     },
     {
       "suit": "spades",
-      "value": "A"
+      "name": "Ace",
+      "value": 11,
+      "ascii": " _____\n|A   ♠|\n|  ^  |\n|     |\n|  ^  |\n|♠___A|"
     }
   ]
