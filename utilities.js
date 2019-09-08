@@ -255,7 +255,7 @@ const playAgain = () => {
             break;
         default:
             console.log("Please enter a relevant input");
-            playerAgain();
+            playAgain();
             break;
     };
 };
