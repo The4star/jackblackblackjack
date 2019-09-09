@@ -190,7 +190,7 @@ const dealerHit = () => {
 };
 
 const dealerPlay = () => {
-    if(dealer.currentHand <= 16 || dealer.currentHand < player.currentHand) {
+    if(dealer.currentHand <= 16) {
         console.log(`${dealer.name} chooses to hit with a thunderous rage!`)
         wait(1200);
         dealerHit();
@@ -215,13 +215,12 @@ const valueChecker = (player, card) => {
 
 const checkWinner = () => {
     if (player.currentHand === dealer.currentHand) {
-        dealer.winCount += 1;
         console.log(`It's a stalemate!
         Your hand: ${player.currentHand}
         ${dealer.name}'s hand: ${dealer.currentHand}
         `)
         wait(2000);
-        console.log(`${dealer.name} wins by default...`)
+        console.log(`${dealer.name} is furious there is no winner and demands a chance to rock again!`)
         wait(1000);
         printScore();    
     } else if (player.currentHand > dealer.currentHand) {
@@ -277,8 +276,7 @@ const finalResult = () => {
         console.log(`\nYou won ${player.winCount} rounds and ${dealer.name} has won ${dealer.winCount}, Even Stevens!\n`)
     } else {
         console.log(`\nYou won ${player.winCount} rounds and ${dealer.name} has won ${dealer.winCount}, Jack Black is the winner!\n`)
-    };
-    return;    
+    };   
 };
 
 const printScore = () => {
@@ -316,4 +314,4 @@ const resetCards = () => {
     usedCards = [];
 };
 
-module.exports = { mainMenu, resetCards, dealCards, usedCards };
+module.exports = { mainMenu };
