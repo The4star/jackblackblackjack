@@ -190,7 +190,7 @@ const dealerHit = () => {
 };
 
 const dealerPlay = () => {
-    if(dealer.currentHand <= 16) {
+    if(dealer.currentHand <= 16 || dealer.currentHand < player.currentHand) {
         console.log(`${dealer.name} chooses to hit with a thunderous rage!`)
         wait(1200);
         dealerHit();
